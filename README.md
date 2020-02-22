@@ -1,2 +1,3 @@
-# design-patterns-javascript
-Design Pattern in JavaScript
+# Design Patterns in Javascript
+
+- Builder pattern
